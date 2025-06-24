@@ -1,5 +1,4 @@
 # Ethiopian-Gregorian Calendar Converter
-
 This repository contains a Python program that converts and displays the Ethiopian calendar dates alongside the Gregorian calendar dates for a given year. It handles both Julian and Gregorian calendar systems, includes leap year calculations, and correctly aligns the dates between the two calendars.
 
 ## Features
